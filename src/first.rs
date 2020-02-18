@@ -39,6 +39,7 @@ impl List {
   }
 }
 
+#[cfg(test)]
 mod test {
   use super::List;
   #[test]
